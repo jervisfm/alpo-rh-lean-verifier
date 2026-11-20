@@ -1,0 +1,7 @@
+work/
+*.log
+__pycache__/
+*.pyc
+.pytest_cache/
+verification-report.txt
+verification-report.json
